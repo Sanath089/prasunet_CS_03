@@ -1,0 +1,4 @@
+step 1:- cd prasunet_CS_03
+step 2:- pip install pillow termcolor numpy 
+step 3:- chmod +x password_strength_checker.py 
+step 4:- python3 password_strength_checker.py 
